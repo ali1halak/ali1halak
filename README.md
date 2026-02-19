@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF2D20&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Ali+Hallak;Backend+Engineer+%7C+PHP+%26+Laravel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Ali+Hallak;Backend+Engineer+%7C+PHP+%26+Laravel" alt="Typing SVG" />
 
   <br/>
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=alihallak1&style=for-the-badge&color=FF2D20&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alihallak1&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
 
@@ -81,33 +81,17 @@ motto: "Code is read more often than it is written."
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alihallak1&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=FFFFFF&ring_color=FF2D20" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alihallak1&hide_border=true&background=0D1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alihallak1&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&ring_color=6C63FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alihallak1&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
   <br/><br/>
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihallak1&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=FFFFFF" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihallak1&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
 
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alihallak1&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihallak1&bg_color=0D1117&color=FF2D20&line=FF2D20&point=FFFFFF&area=true&area_color=FF2D20&hide_border=true" width="95%"/>
 </div>
 
 <br/>
@@ -122,6 +106,15 @@ motto: "Code is read more often than it is written."
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihallak1/)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hlaqly04@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihallak1)
+
+  <br/><br/>
+
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 
   <br/><br/>
 
