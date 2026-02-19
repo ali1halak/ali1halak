@@ -1,54 +1,42 @@
-# 🏛️ Architectural Backend Engineer
+# Ali | Backend Engineer
+**PHP & Laravel Developer**
+
+---
+
+### 🖋️ Profile
+Software Engineer focused on building scalable backend systems and high-performance APIs. I prioritize clean architecture, SOLID principles, and database optimization to ensure long-term maintainability.
+
+---
+
+### 🛠️ Technical Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 👋 Hello, I'm Ali
-**Crafting Robust Foundations for Digital Excellence**
-
-I am a dedicated **Backend Specialist** with a deep-rooted passion for **Software Craftsmanship**. I don't just write code; I design resilient systems that balance performance with long-term maintainability. My expertise lies in the **PHP/Laravel ecosystem**, where I transform complex business requirements into elegant, scalable architectures.
-
 ---
 
-### ⚡ Technical Core
-- **Advanced Backend:** Specialized in Laravel (Eloquent, Service Patterns, Custom Middleware).
-- **Database Engineering:** High-performance SQL optimization and schema design.
-- **Architectural Mindset:** Strict adherence to SOLID, DRY, and Clean Code principles.
-- **System Stability:** Implementing Unit/Feature testing to ensure zero-regression growth.
-
----
-
-### 🛠️ Professional Stack
-
-| Service | Technologies |
-| :--- | :--- |
-| **Core Development** | `PHP 8.x` • `Laravel Ecosystem` • `RESTful APIs` |
-| **Data Management** | `MySQL` • `PostgreSQL` • `Redis (Caching)` |
-| **Architecture** | `Domain Driven Design (DDD)` • `Microservices` • `SOLID` |
-| **Infrastructure** | `Docker` • `Git` • `GitHub Actions (CI/CD)` |
-
----
-
-### 📊 Engineering Impact
+### 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihallak1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihallak1&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alihallak1&show_icons=true&theme=vivid&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihallak1&layout=compact&theme=vivid&hide_border=true" height="160" />
 </p>
 
 ---
 
-### 🌐 Digital Presence
+### 📫 Contact
 <p align="left">
 <a href="https://www.linkedin.com/in/alihallak1/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hlaqly04@gmail.com" target="blank">
-<img src="https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 </p>
 
 ---
-*"Code is poetry, but only if it's maintainable."*
