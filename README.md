@@ -1,135 +1,113 @@
 <div align="center">
-
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Ali+Hallak;Backend+Engineer+%7C+PHP+%26+Laravel" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="320" alt="Laravel" />
+  <br/><br/>
+  <p>
+    <strong>Ali Hallak</strong> · Backend Engineer<br/>
+    Building reliable systems with PHP & Laravel
+  </p>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=alihallak1&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br/><br/>
-
-
-  <samp>
-    「 Crafting robust backend systems, one clean line of code at a time. 」
-  </samp>
-
+  <a href="https://www.linkedin.com/in/alihallak1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hlaqly04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/alihallak1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
 
-## 🧬 About Me
+### About
 
-```yaml
-name: Ali Hallak
-role: Backend Engineer
-location: 🌍
-focus: Scalable APIs & Clean Architecture
-principles:
-  - SOLID
-  - DRY
-  - KISS
-  - YAGNI
-currently_learning: Always something new
-motto: "Code is read more often than it is written."
+Backend engineer with a focus on Laravel and the PHP ecosystem. I care about writing code that's easy to read, easy to maintain, and performs well under pressure. My day-to-day involves designing APIs, structuring databases, and making sure the backend does its job quietly and reliably.
+
+<br/>
+
+### Stack
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=php" width="40" /><br/>
+      <sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" /><br/>
+      <sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=git" width="40" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" /><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### What I Work On
+
+- **RESTful API Design** — Clean endpoints, proper status codes, consistent responses
+- **Database Architecture** — Normalized schemas, indexed queries, Eloquent optimization
+- **Authentication Systems** — Laravel Sanctum, token-based auth, role & permission layers
+- **Application Structure** — Service classes, form requests, repository pattern when it makes sense
+- **Query Performance** — Eager loading, query analysis, avoiding N+1 from day one
+
+<br/>
+
+### Principles
+
+```
+Write code for the next developer, not just for the compiler.
 ```
 
+- Follow SOLID not as a checklist, but as a mindset
+- Keep controllers thin, keep logic where it belongs
+- Test the things that matter, don't chase coverage numbers
+- Refactor when the code tells you to, not on a schedule
+- Documentation is part of the deliverable
+
 <br/>
 
-## ⚡ Tech Arsenal
+### GitHub
 
 <div align="center">
-
-| Category | Technologies |
-|:--------:|:------------|
-| **Language** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| **Framework** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **Tools** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=alihallak1&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=FF2D20&icon_color=FF2D20&text_color=1a1a2e&ring_color=FF2D20" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihallak1&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=FF2D20&text_color=1a1a2e" height="170" />
 </div>
 
 <br/>
 
-## 🏗️ What I Build
-
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────┐
-│                                                   │
-│   🔹 RESTful APIs with clean architecture         │
-│   🔹 Database-optimized backend systems           │
-│   🔹 Authentication & authorization flows         │
-│   🔹 Scalable Laravel applications                │
-│   🔹 Well-structured, maintainable codebases      │
-│                                                   │
-└─────────────────────────────────────────────────┘
-```
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihallak1&hide_border=true&background=FFFFFF&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&sideLabels=1a1a2e&currStreakNum=1a1a2e&sideNums=1a1a2e&dates=888888" height="170" />
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alihallak1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alihallak1&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
+  <br/>
+  <sub>Open to collaboration on Laravel & backend projects.</sub>
   <br/><br/>
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihallak1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alihallak1&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihallak1&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihallak1/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hlaqly04@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihallak1)
-
-  <br/><br/>
-
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-  <br/><br/>
-
-  <samp>
-    <b>「 Thanks for visiting! Let's build something great together. 」</b>
-  </samp>
-
 </div>
