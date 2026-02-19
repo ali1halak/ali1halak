@@ -1,44 +1,54 @@
-# 👋 Hi, I'm [ Ali]
+# 🏛️ Architectural Backend Engineer
 
-### 🚀 Backend Engineer | PHP & Laravel Specialist
-**Engineering with Architectural Elegance & a Craftsmanship Mindset**
-
----
-
-### ⚡ About Me
-I’m a Software Engineer who treats code as a craft. I specialize in building **resilient backend systems** and **high-performance APIs**. My focus is on turning complex business logic into elegant, maintainable solutions.
-
-- 🏗️ **Current Focus:** Scalable architectures and database optimization.
-- 🧹 **Code Philosophy:** Clean Code, SOLID principles, and zero compromise on quality.
-- 💡 **Goal:** Building systems that stay working as they grow.
-
----
-
-### 🛠️ Technical Arsenal
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Frameworks** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[اسم_حسابك]&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[اسم_حسابك]&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="170" />
-</p>
-
----
-
-### 📫 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/alihallak1/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:hlaqly04@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 👋 Hello, I'm Ali
+**Crafting Robust Foundations for Digital Excellence**
+
+I am a dedicated **Backend Specialist** with a deep-rooted passion for **Software Craftsmanship**. I don't just write code; I design resilient systems that balance performance with long-term maintainability. My expertise lies in the **PHP/Laravel ecosystem**, where I transform complex business requirements into elegant, scalable architectures.
+
+---
+
+### ⚡ Technical Core
+- **Advanced Backend:** Specialized in Laravel (Eloquent, Service Patterns, Custom Middleware).
+- **Database Engineering:** High-performance SQL optimization and schema design.
+- **Architectural Mindset:** Strict adherence to SOLID, DRY, and Clean Code principles.
+- **System Stability:** Implementing Unit/Feature testing to ensure zero-regression growth.
+
+---
+
+### 🛠️ Professional Stack
+
+| Service | Technologies |
+| :--- | :--- |
+| **Core Development** | `PHP 8.x` • `Laravel Ecosystem` • `RESTful APIs` |
+| **Data Management** | `MySQL` • `PostgreSQL` • `Redis (Caching)` |
+| **Architecture** | `Domain Driven Design (DDD)` • `Microservices` • `SOLID` |
+| **Infrastructure** | `Docker` • `Git` • `GitHub Actions (CI/CD)` |
+
+---
+
+### 📊 Engineering Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alihallak1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihallak1&layout=compact&theme=tokyonight&hide_border=true" height="175" />
 </p>
 
 ---
-*“Crafting robust foundations for digital products.”*
+
+### 🌐 Digital Presence
+<p align="left">
+<a href="https://www.linkedin.com/in/alihallak1/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hlaqly04@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+*"Code is poetry, but only if it's maintainable."*
