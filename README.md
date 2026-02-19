@@ -1,37 +1,44 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="320" alt="Laravel" />
-  <br/><br/>
-  <p>
-    <strong>Ali Hallak</strong> · Backend Engineer<br/>
-    Building reliable systems with PHP & Laravel
-  </p>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF2D20&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Ali+Hallak;Backend+Engineer+%7C+PHP+%26+Laravel" alt="Typing SVG" />
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/alihallak1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hlaqly04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/alihallak1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=alihallak1&style=for-the-badge&color=FF2D20&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <br/><br/>
+
+  <!-- Short Bio -->
+  <samp>
+    「 Building reliable backend systems with PHP & Laravel 」
+  </samp>
+
 </div>
 
 <br/>
 
+<!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+## 🧬 About Me
+
+```yaml
+name: Ali Hallak
+role: Backend Engineer
+focus: Scalable APIs & Clean Architecture
+principles:
+  - SOLID
+  - DRY
+  - KISS
+  - YAGNI
+motto: "Code is read more often than it is written."
+```
+
 <br/>
 
-### About
-
-Backend engineer with a focus on Laravel and the PHP ecosystem. I care about writing code that's easy to read, easy to maintain, and performs well under pressure. My day-to-day involves designing APIs, structuring databases, and making sure the backend does its job quietly and reliably.
-
-<br/>
-
-### Stack
+## ⚡ Tech Stack
 
 <table>
   <tr>
@@ -56,58 +63,70 @@ Backend engineer with a focus on Laravel and the PHP ecosystem. I care about wri
       <sub><b>Postman</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" /><br/>
-      <sub><b>Linux</b></sub>
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br/>
+      <sub><b>VS Code</b></sub>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### What I Work On
+## 🏗️ What I Build
 
 - **RESTful API Design** — Clean endpoints, proper status codes, consistent responses
 - **Database Architecture** — Normalized schemas, indexed queries, Eloquent optimization
 - **Authentication Systems** — Laravel Sanctum, token-based auth, role & permission layers
-- **Application Structure** — Service classes, form requests, repository pattern when it makes sense
+- **Application Structure** — Service classes, form requests, repository pattern
 - **Query Performance** — Eager loading, query analysis, avoiding N+1 from day one
 
 <br/>
 
-### Principles
-
-```
-Write code for the next developer, not just for the compiler.
-```
-
-- Follow SOLID not as a checklist, but as a mindset
-- Keep controllers thin, keep logic where it belongs
-- Test the things that matter, don't chase coverage numbers
-- Refactor when the code tells you to, not on a schedule
-- Documentation is part of the deliverable
-
-<br/>
-
-### GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihallak1&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=FF2D20&icon_color=FF2D20&text_color=1a1a2e&ring_color=FF2D20" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihallak1&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=FF2D20&text_color=1a1a2e" height="170" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alihallak1&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=FFFFFF&ring_color=FF2D20" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alihallak1&hide_border=true&background=0D1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+  <br/><br/>
+
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihallak1&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=FFFFFF" />
+
 </div>
 
 <br/>
 
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihallak1&hide_border=true&background=FFFFFF&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&sideLabels=1a1a2e&currStreakNum=1a1a2e&sideNums=1a1a2e&dates=888888" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alihallak1&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 <br/>
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihallak1&bg_color=0D1117&color=FF2D20&line=FF2D20&point=FFFFFF&area=true&area_color=FF2D20&hide_border=true" width="95%"/>
+</div>
+
+<br/>
+
+<!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+## 🤝 Let's Connect
+
 <div align="center">
-  <br/>
-  <sub>Open to collaboration on Laravel & backend projects.</sub>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihallak1/)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hlaqly04@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihallak1)
+
   <br/><br/>
+
+  <samp>
+    <b>「 Thanks for visiting! Open to collaboration on Laravel & backend projects. 」</b>
+  </samp>
+
 </div>
