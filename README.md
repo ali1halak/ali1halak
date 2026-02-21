@@ -1,11 +1,11 @@
 <div align="center">
 
-
+  <!-- Line 1 -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1800&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hey%2C+I'm+Ali+Hallak" alt="Typing SVG" />
 
   <br/>
 
-  
+  <!-- Line 2 -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=8B83FF&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Software+Engineer+%7C+PHP+%26+Laravel+Specialist" alt="Typing SVG" />
 
   <br/><br/>
@@ -22,11 +22,15 @@
 
 ## About Me
 
-Software Engineer with hands-on experience in **PHP** and **Laravel**, focused on building **secure APIs** and **scalable backend systems** following clean architecture principles.
+<blockquote>
 
-I care about writing maintainable code, designing well-structured databases, and delivering production-ready solutions that are easy to extend and collaborate on.
+**Software Engineer** specializing in **PHP & Laravel** with a focus on building secure, scalable backend systems.
 
-**Principles I follow:** &nbsp; `SOLID` · `Clean Architecture` · `Repository Pattern` · `Service Layer` · `DRY` · `KISS`
+I design clean APIs, write maintainable code, and structure applications with well-defined layers — so teams can move fast without breaking things.
+
+</blockquote>
+
+&nbsp;&nbsp;&nbsp;&nbsp; `SOLID` &nbsp; `Clean Architecture` &nbsp; `Repository Pattern` &nbsp; `Service Layer` &nbsp; `DRY` &nbsp; `KISS`
 
 <br/>
 
@@ -37,39 +41,54 @@ I care about writing maintainable code, designing well-structured databases, and
   <table>
     <tr>
       <td align="center" width="130">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" width="55" height="55" />
+        <br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" />
         <br/><b>PHP</b>
+        <br/><br/>
       </td>
       <td align="center" width="130">
+        <br/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="55" height="55" />
         <br/><b>Laravel</b>
+        <br/><br/>
       </td>
       <td align="center" width="130">
+        <br/>
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" />
         <br/><b>MySQL</b>
+        <br/><br/>
       </td>
       <td align="center" width="130">
+        <br/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" />
         <br/><b>Git</b>
+        <br/><br/>
       </td>
     </tr>
-    <tr><td colspan="4"><br/></td></tr>
     <tr>
       <td align="center" width="130">
+        <br/>
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" />
         <br/><b>GitHub</b>
+        <br/><br/>
       </td>
       <td align="center" width="130">
+        <br/>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" height="55" />
         <br/><b>Postman</b>
+        <br/><br/>
       </td>
       <td align="center" width="130">
+        <br/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="55" height="55" />
         <br/><b>Composer</b>
+        <br/><br/>
       </td>
       <td align="center" width="130">
+        <br/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" />
         <br/><b>VS Code</b>
+        <br/><br/>
       </td>
     </tr>
   </table>
@@ -98,7 +117,7 @@ I care about writing maintainable code, designing well-structured databases, and
 
 <br/>
 
-## Let's Connect
+## I'm Always Open to New Ideas — Let's Build Something
 
 <br/>
 
