@@ -1,17 +1,17 @@
 <div align="center">
 
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1200&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hey%2C+I'm+Ali+Hallak" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=2200&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hey%2C+I'm+Ali+Hallak" alt="Typing SVG" />
 
   <br/>
 
  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1200&color=8B83FF&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Software+Engineer+%7C+PHP+%26+Laravel+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=6000&pause=2200&color=8B83FF&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Software+Engineer+%7C+PHP+%26+Laravel+Specialist" alt="Typing SVG" />
 
   <br/><br/>
 
   <samp>
-    「 Delivering secure APIs and scalable backend solutions with Clean Code ��
+    「 Delivering secure APIs and scalable backend solutions with Clean Code 」
   </samp>
 
 </div>
@@ -23,26 +23,25 @@
 ## About Me
 
 <div align="center">
+  <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   Software Engineer specializing in PHP & Laravel, passionate        ║
-║   about building secure APIs and scalable backend systems            ║
-║   that are maintainable, performant, and production-ready.           ║
-║                                                                      ║
-║   I write code that other developers can read, understand,           ║
-║   and extend — following clean architecture with well-defined        ║
-║   boundaries between every layer.                                    ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   Principles:  SOLID · Clean Architecture · Repository Pattern       ║
-║                Service Layer · DRY · KISS · YAGNI                    ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+  <img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" />
+  &nbsp; Software Engineer specializing in **PHP & Laravel**
+  <br/><br/>
+  <img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" />
+  &nbsp; Building **secure APIs** and **scalable backend systems**
+  <br/><br/>
+  <img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" />
+  &nbsp; Focused on **clean architecture** with well-defined boundaries
+  <br/><br/>
+  <img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" />
+  &nbsp; Writing code that others can **read, understand, and extend**
 
+  <br/><br/>
+
+  `SOLID` &nbsp; `Clean Architecture` &nbsp; `Repository Pattern` &nbsp; `Service Layer` &nbsp; `DRY` &nbsp; `KISS` &nbsp; `YAGNI`
+
+  <br/>
 </div>
 
 <br/>
@@ -50,25 +49,49 @@
 ## Tools & Technologies
 
 <div align="center">
+  <br/>
 
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" />
+        <br/><samp><b>MySQL</b></samp>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=php" width="50" />
+        <br/><br/><samp><b>PHP</b></samp>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=laravel" width="50" />
+        <br/><br/><samp><b>Laravel</b></samp>
+      </td>
+      <td align="center" width="150">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" />
+        <br/><samp><b>GitHub</b></samp>
+      </td>
+    </tr>
+    <tr><td colspan="4">&nbsp;</td></tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=git" width="50" />
+        <br/><br/><samp><b>Git</b></samp>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=postman" width="50" />
+        <br/><br/><samp><b>Postman</b></samp>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="50" />
+        <br/><br/><samp><b>Composer</b></samp>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+        <br/><br/><samp><b>VS Code</b></samp>
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
-
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" /></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
-
+  <br/>
 </div>
 
 <br/>
