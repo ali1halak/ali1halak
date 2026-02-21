@@ -1,17 +1,12 @@
 <div align="center">
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey%2C+I'm+Ali+Hallak;Software+Engineer+%7C+PHP+%26+Laravel+Specialist" alt="Typing SVG" />
-
-  <br/>
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=ali1halak&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
+ 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=6C63FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Hey%2C+I'm+Ali+Hallak+%E2%80%94+Software+Engineer+%7C+PHP+%26+Laravel+Specialist" alt="Typing SVG" />
 
   <br/><br/>
 
   <samp>
-    「 Delivering secure APIs & scalable backend solutions with Clean Code 」
+    「 Delivering secure APIs and scalable backend solutions with Clean Code 」
   </samp>
 
 </div>
@@ -22,29 +17,24 @@
 
 ## About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
+<table>
+<tr>
+<td>
 
-**Name** → Ali Hallak
+I'm a **Software Engineer** specializing in **PHP & Laravel**, focused on building
+**secure APIs** and **scalable backend systems** that are maintainable and performant.
 
-**Role** → Software Engineer
+I care deeply about writing code that other developers can read, understand, and extend.
+Every project I work on follows a clear architecture with well-defined boundaries
+between layers.
 
-**Specialty** → PHP & Laravel
+**Core Principles:**
 
-**Focus** → Secure APIs & Scalable Backend Solutions
+`SOLID` · `Clean Architecture` · `Repository Pattern` · `Service Layer` · `DRY` · `KISS`
 
-**Architecture** → Clean Architecture · Repository Pattern · Service Layer
-
-**Principles** → SOLID · DRY · KISS · YAGNI
-
-> *"Code is read more often than it is written."*
-
-  </td>
-    </tr>
-  </table>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -60,37 +50,17 @@
 
 ## What I Build
 
-<div align="center">
+◆ &nbsp; **RESTful API Design** — Clean endpoints, proper status codes, consistent JSON responses
 
-**RESTful API Design**
-Clean endpoints · Proper status codes · Consistent JSON responses
+◆ &nbsp; **Database Architecture** — Normalized schemas, indexed queries, Eloquent optimization
 
----
+◆ &nbsp; **Authentication Systems** — Laravel Sanctum, token-based auth, role & permission layers
 
-**Database Architecture**
-Normalized schemas · Indexed queries · Eloquent optimization
+◆ &nbsp; **Application Structure** — Service classes, form requests, repository pattern
 
----
+◆ &nbsp; **Query Performance** — Eager loading, query analysis, N+1 prevention
 
-**Authentication Systems**
-Laravel Sanctum · Token-based auth · Role & permission layers
-
----
-
-**Application Structure**
-Service classes · Form requests · Repository pattern
-
----
-
-**Query Performance**
-Eager loading · Query analysis · N+1 prevention
-
----
-
-**System Optimization**
-Caching strategies · Queue management · Clean deployments
-
-</div>
+◆ &nbsp; **System Optimization** — Caching strategies, queue management, clean deployments
 
 <br/>
 
