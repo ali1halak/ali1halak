@@ -1,12 +1,17 @@
 <div align="center">
 
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1200&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hey%2C+I'm+Ali+Hallak" alt="Typing SVG" />
+
+  <br/>
+
  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=6C63FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Hey%2C+I'm+Ali+Hallak+%E2%80%94+Software+Engineer+%7C+PHP+%26+Laravel+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1200&color=8B83FF&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Software+Engineer+%7C+PHP+%26+Laravel+Specialist" alt="Typing SVG" />
 
   <br/><br/>
 
   <samp>
-    「 Delivering secure APIs and scalable backend solutions with Clean Code 」
+    「 Delivering secure APIs and scalable backend solutions with Clean Code ��
   </samp>
 
 </div>
@@ -17,32 +22,52 @@
 
 ## About Me
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-I'm a **Software Engineer** specializing in **PHP & Laravel**, focused on building
-**secure APIs** and **scalable backend systems** that are maintainable and performant.
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   Software Engineer specializing in PHP & Laravel, passionate        ║
+║   about building secure APIs and scalable backend systems            ║
+║   that are maintainable, performant, and production-ready.           ║
+║                                                                      ║
+║   I write code that other developers can read, understand,           ║
+║   and extend — following clean architecture with well-defined        ║
+║   boundaries between every layer.                                    ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   Principles:  SOLID · Clean Architecture · Repository Pattern       ║
+║                Service Layer · DRY · KISS · YAGNI                    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-I care deeply about writing code that other developers can read, understand, and extend.
-Every project I work on follows a clear architecture with well-defined boundaries
-between layers.
-
-**Core Principles:**
-
-`SOLID` · `Clean Architecture` · `Repository Pattern` · `Service Layer` · `DRY` · `KISS`
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-## Tech Stack
+## Tools & Technologies
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,redis,linux,git,github,postman,vscode&perline=5" />
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+
+  <br/><br/>
+
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" /></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
 
 </div>
 
@@ -66,15 +91,21 @@ between layers.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+<br/>
+
 ## Let's Connect
+
+<br/>
 
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihallak1/)
+  &nbsp;&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hlaqly04@gmail.com)
+  &nbsp;&nbsp;
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali1halak)
 
-  <br/><br/>
+  <br/><br/><br/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -82,7 +113,7 @@ between layers.
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  <br/><br/>
+  <br/><br/><br/>
 
   <samp>
     <b>「 Thanks for visiting! Open to collaboration on Laravel & backend projects. 」</b>
