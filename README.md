@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Ali+Hallak;Software+Engineer+%7C+PHP+%26+Laravel+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey%2C+I'm+Ali+Hallak;Software+Engineer+%7C+PHP+%26+Laravel+Specialist" alt="Typing SVG" />
 
   <br/>
 
@@ -20,117 +20,75 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 🧬 About Me
+## About Me
 
-```yaml
-name: Ali Hallak
-role: Software Engineer
-specialty: PHP & Laravel
-focus: Secure APIs & Scalable Backend Solutions
-architecture:
-  - Clean Architecture
-  - Repository Pattern
-  - Service Layer Pattern
-principles:
-  - SOLID
-  - DRY
-  - KISS
-  - YAGNI
-motto: "Code is read more often than it is written."
-```
+<div align="center">
+  <table>
+    <tr>
+      <td>
+
+**Name** → Ali Hallak
+
+**Role** → Software Engineer
+
+**Specialty** → PHP & Laravel
+
+**Focus** → Secure APIs & Scalable Backend Solutions
+
+**Architecture** → Clean Architecture · Repository Pattern · Service Layer
+
+**Principles** → SOLID · DRY · KISS · YAGNI
+
+> *"Code is read more often than it is written."*
+
+  </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🔧 Backend & Languages
-  
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=php" width="40" /><br/>
-      <sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel" width="40" /><br/>
-      <sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="40" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🗄️ Database & Infrastructure
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=redis" width="40" /><br/>
-      <sub><b>Redis</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" /><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Tools & Workflow
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="40" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="40" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br/>
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,redis,linux,git,github,postman,vscode&perline=5" />
 
 </div>
 
 <br/>
 
-## 🏗️ What I Build
-
-| Domain | Details |
-|--------|---------|
-| **🔌 RESTful API Design** | Clean endpoints, proper status codes, consistent JSON responses |
-| **🗃️ Database Architecture** | Normalized schemas, indexed queries, Eloquent optimization |
-| **🔐 Authentication Systems** | Laravel Sanctum, token-based auth, role & permission layers |
-| **🧱 Application Structure** | Service classes, form requests, repository pattern |
-| **⚡ Query Performance** | Eager loading, query analysis, avoiding N+1 from day one |
-| **🛡️ System Optimization** | Caching strategies, queue management, clean deployments |
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-## 📊 GitHub Activity
+## What I Build
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ali1halak&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali1halak&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=6" />
+**RESTful API Design**
+Clean endpoints · Proper status codes · Consistent JSON responses
+
+---
+
+**Database Architecture**
+Normalized schemas · Indexed queries · Eloquent optimization
+
+---
+
+**Authentication Systems**
+Laravel Sanctum · Token-based auth · Role & permission layers
+
+---
+
+**Application Structure**
+Service classes · Form requests · Repository pattern
+
+---
+
+**Query Performance**
+Eager loading · Query analysis · N+1 prevention
+
+---
+
+**System Optimization**
+Caching strategies · Queue management · Clean deployments
 
 </div>
 
@@ -138,7 +96,7 @@ motto: "Code is read more often than it is written."
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
