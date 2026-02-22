@@ -91,6 +91,15 @@ I design clean APIs, write maintainable code, and structure applications with we
         <br/><br/>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="130" colspan="4">
+        <br/>
+        <img src="https://nativephp.com/img/logo.svg" width="55" height="55" alt="NativePHP logo" onerror="this.src='https://raw.githubusercontent.com/nativephp/nativephp.com/main/public/img/logo.svg'" />
+        <br/><b>NativePHP</b>
+        <br/><sub>PHP → Mobile & Desktop Apps</sub>
+        <br/><br/>
+      </td>
+    </tr>
   </table>
 
 </div>
@@ -110,6 +119,91 @@ I design clean APIs, write maintainable code, and structure applications with we
 ◆ &nbsp; **Query Performance** — Eager loading, query analysis, N+1 prevention
 
 ◆ &nbsp; **System Optimization** — Caching strategies, queue management, clean deployments
+
+◆ &nbsp; **Native Mobile Apps (NativePHP)** — Cross-platform mobile apps built entirely in PHP & Laravel
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<br/>
+
+## 📱 NativePHP — Building Mobile Apps with PHP
+
+<blockquote>
+
+**NativePHP** is one of the most exciting new trends in the PHP ecosystem — it lets you build **real native mobile and desktop applications** using the PHP and Laravel skills you already have, with **zero need to learn Swift, Kotlin, or Flutter**.
+
+</blockquote>
+
+### What is NativePHP?
+
+NativePHP is an open-source framework (created by **Simon Hamp** and backed by the Laravel community) that wraps your PHP/Laravel application inside a native shell, producing installable `.apk` / `.ipa` (mobile) or `.exe` / `.dmg` (desktop) binaries.
+
+- **For Desktop** — uses [Electron](https://www.electronjs.org/) or [Tauri](https://tauri.app/) under the hood to embed a PHP runtime inside a cross-platform desktop app.
+- **For Mobile** — uses [Capacitor](https://capacitorjs.com/) to bridge PHP-rendered Blade/Livewire views into a native Android & iOS container.
+
+### How It Works
+
+```
+┌──────────────────────────────────────────────────┐
+│             Your Laravel Application              │
+│  Blade / Livewire UI  ←→  PHP Business Logic     │
+│  Eloquent Models      ←→  SQLite / MySQL          │
+└───────────────────┬──────────────────────────────┘
+                    │  NativePHP wraps & bundles
+          ┌─────────▼──────────┐
+          │   Native Shell     │
+          │  Android  |  iOS   │
+          │  Windows  |  macOS │
+          └────────────────────┘
+```
+
+### Key Features
+
+| Feature | Description |
+|---|---|
+| 🐘 **Pure PHP** | Write your entire app in PHP — no JavaScript framework required |
+| ⚡ **Laravel-powered** | Full access to Eloquent, queues, events, and all Laravel features |
+| 📲 **Cross-platform** | Deploy to Android, iOS, Windows, and macOS from one codebase |
+| 🗄️ **Local Database** | Built-in SQLite support — works fully offline |
+| 🔔 **Native APIs** | Access push notifications, camera, GPS, file system, and more |
+| 🎨 **Blade / Livewire UI** | Build reactive UIs with Livewire without writing JavaScript |
+| 📦 **Single Binary** | Ships as a standalone installable with PHP runtime bundled |
+
+### When to Use NativePHP
+
+✅ &nbsp; Simple to medium business apps (inventory, CRM, reporting tools)  
+✅ &nbsp; Internal enterprise tools for small teams  
+✅ &nbsp; Rapid prototypes using existing Laravel APIs  
+✅ &nbsp; PHP teams who want mobile presence without hiring mobile devs  
+
+⚠️ &nbsp; Not ideal yet for complex animations, heavy graphics, or App Store-critical apps requiring full native performance.
+
+### Quick Start
+
+```bash
+# Install via Composer
+composer require nativephp/mobile
+
+# Initialize NativePHP in your Laravel project
+php artisan native:install
+
+# Run on Android emulator
+php artisan native:run android
+
+# Run on iOS simulator
+php artisan native:run ios
+
+# Build production APK
+php artisan native:build android
+```
+
+### Resources
+
+- 🌐 [nativephp.com](https://nativephp.com) — Official site & documentation
+- 📦 [github.com/nativephp/laravel](https://github.com/nativephp/laravel) — GitHub repository
+- 🎥 [Laravel Daily & Laracasts](https://laracasts.com) — Video tutorials
 
 <br/>
 
