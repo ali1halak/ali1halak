@@ -91,6 +91,14 @@ I design clean APIs, write maintainable code, and structure applications with we
         <br/><br/>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="130">
+        <br/>
+        <img src="https://nativephp.com/img/logo.svg" width="55" height="55" />
+        <br/><b>NativePHP</b>
+        <br/><br/>
+      </td>
+    </tr>
   </table>
 
 </div>
@@ -110,6 +118,8 @@ I design clean APIs, write maintainable code, and structure applications with we
 ◆ &nbsp; **Query Performance** — Eager loading, query analysis, N+1 prevention
 
 ◆ &nbsp; **System Optimization** — Caching strategies, queue management, clean deployments
+
+◆ &nbsp; **Native Mobile & Desktop Apps with PHP** — Leveraging **NativePHP** to ship cross-platform mobile and desktop applications entirely in PHP/Laravel, without leaving the ecosystem
 
 <br/>
 
